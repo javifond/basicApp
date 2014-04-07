@@ -1,0 +1,10 @@
+{
+  "name": "MyBasicApp",
+  "version": "1.0.0",
+  "devDependencies": {
+    "grunt": "latest",
+    "express": "3.5.1",
+    "nodemon": "1.0.17",
+    "hbs": "2.5.0"
+  }
+}
